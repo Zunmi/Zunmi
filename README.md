@@ -15,8 +15,8 @@
 ---
 
 ## 📊 GitHub 统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zunmi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zunmi&layout=compact&theme=tokyonight)
 
 ---
 
@@ -29,4 +29,4 @@
 ---
 
 
-![Visitors](https://komarev.com/ghpvc/?username=你的用户名&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=Zunmi&color=blue)
